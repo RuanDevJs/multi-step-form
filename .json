@@ -1,0 +1,12 @@
+{
+  "_id": { "$oid": "5f5bd13223d99f3023bc5b5e" },
+  "keywords_available": [],
+  "categories": [],
+  "country": "Brasil",
+  "account_id": { "$oid": "5f5bd0ea23d99f3023bc5b5b" },
+  "email": "Jose.Santo@prosegur.com",
+  "superlogica_account_id": "1064",
+  "active_on_superlogica": true,
+  "phone_number": "+55 11 94557-0076",
+  "account_type": "suspended"
+}
